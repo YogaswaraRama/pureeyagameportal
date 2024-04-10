@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-//Clock
+//1. Clock
 updateDate = () => {
   const todayDefault = new Date();
   const dateSettings = {
@@ -112,4 +112,4 @@ hamburger.addEventListener("click", () => {
   console.log(sidebarMinimized);
 });
 
-//5. responsive
+//5. Responsive
