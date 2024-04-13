@@ -86,8 +86,6 @@ updateDate = () => {
 };
 setInterval(updateDate, 1000);
 
-//2. Card game di home + game page
-
 //3. local storage simpan + update profile
 
 //4. sidebar minimize
